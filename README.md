@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋, Eu sou o Ivam</h1>
+<h1 align="center">Olá 👋, Eu sou o Ivan</h1>
 <h3 align="center">Um Analista de Sistemas apaixonado</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/0f18a16c-32a1-49aa-8ead-6e8eccdac095">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="PedroABatista" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="IvanLuizDev" /> </p>
 
 - 🌱 Atualmente estou cursando  **Sistemas de Informação**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ivan-luiz-b92851250/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="PedroABatista" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivan-luiz-b92851250/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="IvanLuizDev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
